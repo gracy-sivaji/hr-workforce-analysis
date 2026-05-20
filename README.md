@@ -23,7 +23,7 @@ decision-making.
 
 ## Key Business Insights
 - IT department had the highest average salary
-- A 41% salary gap was identified between highest and lowest paid departments
+- A 41% salary gap identified between highest and lowest paid departments
 - HR department flagged as pay equity risk for management review
 - Majority of workforce concentrated in Operations and IT departments
 
