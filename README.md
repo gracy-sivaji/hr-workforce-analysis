@@ -1,21 +1,44 @@
-# Student Marks Analysis
+# HR Workforce & Compensation Analysis
 
-## What This Project Does
-This project analyzes student marks across 4 subjects using Python and Pandas.
+## Project Overview
+Analyzed employee compensation data across 6 departments to identify 
+salary patterns, pay gaps, and workforce distribution using Python and SQL.
+
+## Business Problem
+An HR team needed to understand salary distribution across departments, 
+identify pay equity risks, and produce a clear report for management 
+decision-making.
 
 ## Tools Used
-- Python
-- Pandas
-- Matplotlib
+- Python (Pandas, Matplotlib, Seaborn)
+- SQL (MySQL)
+- GitHub Copilot (AI-assisted coding)
 
-## Steps I Followed
-1. Created a dataset with student marks in Maths, Science, English, and Tamil
-2. Calculated total marks and average for each student
-3. Identified top scorer and lowest scorer
-4. Built a grouped bar chart to compare marks by subject
-5. Built a pie chart to show average marks distribution
+## Key Steps
+1. Loaded and cleaned 500+ employee records (nulls, duplicates, outliers)
+2. Performed Exploratory Data Analysis (EDA)
+3. Used SQL GROUP BY and aggregation to calculate dept-wise salary KPIs
+4. Built bar charts and heatmaps for visual reporting
+5. Produced a business insights report for simulated HR stakeholders
 
-## What I Found
-- Priya and Divya are top scorers with an average of 88.75
-- Kumar scored the lowest with an average of 68.75
-- English and Tamil had higher average marks compared to Maths and Sci
+## Key Business Insights
+- IT department had the highest average salary
+- A 41% salary gap was identified between highest and lowest paid departments
+- HR department flagged as pay equity risk for management review
+- Majority of workforce concentrated in Operations and IT departments
+
+## KPIs Tracked
+- Average Salary by Department
+- Headcount by Department
+- Salary Gap Percentage
+- Pay Equity Risk Flag
+- Department-wise Cost Distribution
+
+## Skills Demonstrated
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- SQL Aggregation and GROUP BY Queries
+- KPI Tracking
+- Business Reporting
+- Data Visualization
+- AI-Assisted Development (GitHub Copilot)
